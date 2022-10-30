@@ -290,6 +290,7 @@ p, ul {
   cursor: pointer;
   border-radius: 50px;
   padding: 5px;
+  color: #ffffff;
 }
 
 .mobile-nav-toggle i {
